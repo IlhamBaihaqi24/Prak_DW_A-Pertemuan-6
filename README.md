@@ -23,7 +23,4 @@ Merancang antarmuka dasbor belajar **RuangTumbuh**, layanan pendidikan digital t
 3. **Mini design system:** menetapkan warna, font Inter, jarak, tombol, formulir, dan kartu agar kedua tampilan konsisten.
 
 ## Ringkasan
-Tugas praktikum pertemuan 6 berfokus pada perancangan tampilan high fidelity dasbor RuangTumbuh untuk desktop dan mobile. Pada desktop, navigasi berada di sidebar dan beberapa bagian ditampilkan berdampingan. Pada mobile, konten disusun satu kolom dan navigasi dipindah ke bawah, sementara data dan progres belajar tetap sama. Mini design system menjadi acuan agar warna, tipografi, dan komponen seragam di kedua ukuran layar.
-
-## Pembagian Peran
-Mockup versi desktop dan mobile dikerjakan secara individu oleh Ilham Baihaqi. Mini design system dikerjakan secara kelompok.
+Tugas praktikum pertemuan 6 berfokus pada perancangan tampilan high fidelity dasbor RuangTumbuh untuk desktop dan mobile. Pada desktop, navigasi berada di sidebar dan beberapa bagian ditampilkan berdampingan. Pada mobile, konten disusun satu kolom dan navigasi dipindah ke bawah, sementara data dan progres belajar tetap sama. Mini design system menjadi acuan agar warna, tipografi, dan komponen seragam di kedua ukuran layar
